@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run generate:geo && vite build",
     "preview": "vite preview",
     "generate:geo": "node scripts/generate-geo-pages.mjs"
   },
