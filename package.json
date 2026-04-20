@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "buid": {
-    "dev": "vite",
-    "build": "npm run generate:geo && vite build",
-    "preview": "vite preview",
-    "generate:geo": "node scripts/generate-geo-pages.mjs"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "npm run generate:geo && npx vite build",
+  "preview": "vite preview",
+  "generate:geo": "node scripts/generate-geo-pages.mjs"
+}
   "dependencies": {
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"
