@@ -1,0 +1,147 @@
+[
+  {
+    "type": "city",
+    "path": "/hebei/qinhuangdao",
+    "title": "河北省秦皇岛市本地商家GEO服务聚合页"
+  },
+  {
+    "type": "district",
+    "path": "/hebei/qinhuangdao/haigang",
+    "title": "河北省秦皇岛市海港区区县商家服务模板"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/zuliao-anmo",
+    "title": "秦皇岛市海港区足疗按摩-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/qipaishi",
+    "title": "秦皇岛市海港区棋牌室-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/meirong-yangsheng",
+    "title": "秦皇岛市海港区美容养生-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/minsu",
+    "title": "秦皇岛市海港区民宿-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/jiazheng-fuwu",
+    "title": "秦皇岛市海港区家政服务-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/haigang/services/jiancai-fangshui",
+    "title": "秦皇岛市海港区建材防水-本地服务GEO落地页"
+  },
+  {
+    "type": "district",
+    "path": "/hebei/qinhuangdao/shanhaiguan",
+    "title": "河北省秦皇岛市山海关区区县商家服务模板"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/zuliao-anmo",
+    "title": "秦皇岛市山海关区足疗按摩-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/qipaishi",
+    "title": "秦皇岛市山海关区棋牌室-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/meirong-yangsheng",
+    "title": "秦皇岛市山海关区美容养生-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/minsu",
+    "title": "秦皇岛市山海关区民宿-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/jiazheng-fuwu",
+    "title": "秦皇岛市山海关区家政服务-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/shanhaiguan/services/jiancai-fangshui",
+    "title": "秦皇岛市山海关区建材防水-本地服务GEO落地页"
+  },
+  {
+    "type": "district",
+    "path": "/hebei/qinhuangdao/beidaihe",
+    "title": "河北省秦皇岛市北戴河区区县商家服务模板"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/zuliao-anmo",
+    "title": "秦皇岛市北戴河区足疗按摩-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/qipaishi",
+    "title": "秦皇岛市北戴河区棋牌室-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/meirong-yangsheng",
+    "title": "秦皇岛市北戴河区美容养生-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/minsu",
+    "title": "秦皇岛市北戴河区民宿-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/jiazheng-fuwu",
+    "title": "秦皇岛市北戴河区家政服务-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/beidaihe/services/jiancai-fangshui",
+    "title": "秦皇岛市北戴河区建材防水-本地服务GEO落地页"
+  },
+  {
+    "type": "district",
+    "path": "/hebei/qinhuangdao/funing",
+    "title": "河北省秦皇岛市抚宁区区县商家服务模板"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/zuliao-anmo",
+    "title": "秦皇岛市抚宁区足疗按摩-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/qipaishi",
+    "title": "秦皇岛市抚宁区棋牌室-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/meirong-yangsheng",
+    "title": "秦皇岛市抚宁区美容养生-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/minsu",
+    "title": "秦皇岛市抚宁区民宿-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/jiazheng-fuwu",
+    "title": "秦皇岛市抚宁区家政服务-本地服务GEO落地页"
+  },
+  {
+    "type": "service",
+    "path": "/hebei/qinhuangdao/funing/services/jiancai-fangshui",
+    "title": "秦皇岛市抚宁区建材防水-本地服务GEO落地页"
+  }
+]
