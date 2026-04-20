@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": {
+  "buid": {
     "dev": "vite",
     "build": "npm run generate:geo && vite build",
     "preview": "vite preview",
